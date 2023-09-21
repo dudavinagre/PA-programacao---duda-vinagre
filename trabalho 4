@@ -1,0 +1,16 @@
+Phyton -> linguagem de programação de alto nível e de propósito generalista. Sua filosofia de design enfatiza a legibilidade do código com a proposta de ser de fácil compreensão com o uso de palavras-chave em inglês. Não costuma utilizar recursos gráficos como chaves e colchetes para delimitar blocos. 
+Java Script -> linguagem compilada de alto nível muito utilizada em sites front-end e no desenvolvimento de jogos. Empresas como WordPress, Khan Academy, Linkedin e Groupon utilizam essa língua em suas plataformas. Também é considerada uma ótima linguagem para quem está começando no mundo da programação. 
+Java -> Ao contrário do que o nome pode levar a crer, Java e JavaScript não são linguagens que derivam uma da outra ou similares. É uma linguagem de alto nível projetada para ter o menor número possível de dependências de implementação. Dessa forma, os programadores escrevem o código uma única vez e ele pode ser executado em qualquer plataforma que comporte essa linguagem de programação. 
+Código de Java - 
+class HelloWorld
+{
+   public static void main(String args[])
+   {
+     System.out.println("Hello World");
+   }
+}
+Código Phyton - 
+print("Hello World')
+
+Código Java Script 
+console.log("Hello,World");
